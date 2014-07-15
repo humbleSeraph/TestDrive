@@ -1,3 +1,3 @@
 TestDrive
 =========
-My name is Osagie Igbeare. Jesus Rocks.
+My name is Osagie Igbeare.
